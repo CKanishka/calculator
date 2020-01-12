@@ -38,7 +38,10 @@
     border: 5px outset #10beb0;
     border-radius: 5px;
   }
-
+  button:hover{
+      cursor: pointer;
+      background-color: cornflowerblue;
+  }
   button:active{
     border: 5px inset #10beb0;
   }
